@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainArc.Appliaction", "MainArc.Appliaction", "{BFD72F63-2701-4EEF-B943-0BB7D85313AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainArc.Domain", "MainArc.Domain", "{8F7E9D2C-F2EA-43BE-9D4A-E73CBB9BF1C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainArc.Infra.IOC", "MainArc.Infra.IOC", "{4C65E147-596A-4A29-AB67-66A5E8271FB2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainArc.Infra.Data", "MainArc.Infra.Data", "{87326991-3080-436D-BAB3-1E5BF30A8690}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MainArc.UI.Mvc", "MainArc.UI.Mvc", "{89CB9F34-861F-49DD-AFA2-A3AF69FDD5A5}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
