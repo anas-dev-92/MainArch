@@ -5,9 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="InterFaces\" />
-    <Folder Include="ViewModel\" />
     <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MainArc.Ddomain\MainArc.Ddomain.csproj" />
   </ItemGroup>
 
 </Project>
