@@ -7,6 +7,6 @@ namespace MainArc.Application.InterFaces
 {
     public interface ICourseService
     {
-        IEnumerable<CourseViewModel> GetCourses();
+        CourseViewModel GetCourses();
     }
 }
